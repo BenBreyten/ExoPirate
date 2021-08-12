@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ExoPirate
+- 👋 Hi, I’m @ExoPirate aka Ben Breytenbach
 - 👀 I’m interested in ... Data Science and Gaming.
 - 🌱 I’m currently learning ... Data Science at IBM.
 - 💞️ I’m looking to collaborate on ... Any project that will teach me more about Data Science.
